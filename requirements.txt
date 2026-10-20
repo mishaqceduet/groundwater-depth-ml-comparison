@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+xgboost
+rasterio
+pyproj
+py3dep
+pynhd
+dataretrieval
+whitebox
+rioxarray
